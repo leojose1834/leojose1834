@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there Soy Leonardo, programador y desarrollador WEB  👋
 
 <!--
 **leojose1834/leojose1834** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
